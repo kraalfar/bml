@@ -3,3 +3,4 @@
 
 *  kNN, рак и спам - решение в Homework 1/hw01_task.ipynb
 
+* Второе задение в Homework 2/hw02_task.ipynb. Также там некоторые картинки для кода.
